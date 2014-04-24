@@ -1,4 +1,4 @@
-s file contains 2 functions:
+## This file contains 2 functions:
 ## - makeCacheMatrix creates a closure for utility functions
 ##   operating on a matrix
 ## - cacheSolve handles lookups/setting of cached solve() calls
